@@ -13,9 +13,9 @@
 <div align="center">
 🛜 I have my portfolio website at bottom
     
-👨🏼‍🎓 studying Software Engineer at SMKN 1 Garut
+👨🏼‍🎓 Studying Software Engineer at SMKN 1 Garut
 
-👨🏼‍💻 learning a web developer since 2021
+👨🏼‍💻 Learning a web developer since 2021
 
 </div>
 

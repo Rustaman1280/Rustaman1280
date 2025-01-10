@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer from Indonesia🇮🇩</h3>
 
 <br/>
-<img style="border-radius: 12px" src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img  src="banner_github.png" alt="GitHub Banner" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" />
 
 # Hello World!, I'm Rustaman, a Indonesian Junior Programmer 👋🏼:
 <div align="center">
